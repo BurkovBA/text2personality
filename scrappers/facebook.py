@@ -1,13 +1,14 @@
 import requests
-from selenium.webdriver import (Chrome, Firefox, ChromeOptions, FirefoxProfile)
-import pymongo
 import datetime
-import yaml
 import time
 import random
 
-class FBWebScraper():
+import yaml
+from selenium.webdriver import (Chrome, Firefox, ChromeOptions, FirefoxProfile)
+import pymongo
 
+
+class FBWebScraper:
     def __init__(self, my_email, my_password, my_profile_url, statuses=50, scroll_time=7, browser='Chrome'):
 
         self.my_email = my_email
@@ -232,6 +233,7 @@ class FBWebScraper():
             upsert=True
             )
             print("Finished creating " + name + "'s statuses dictionary! \nStatus count: " + str(len(statuses_dict.items())) + " statuses.")
+
 
 if __name__ == '__main__':
     with open('fb_login_creds.yaml', 'r') as stream:
