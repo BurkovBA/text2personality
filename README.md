@@ -41,8 +41,8 @@ I've downloaded several training datasets from the internet:
 
 Available scrappers:
 
- * Telegram, implemented through [telethon](https://github.com/LonamiWebs/Telethon) library
- * Facebook - copy-pasted from another repository
+ * Telegram - implemented through [telethon](https://github.com/LonamiWebs/Telethon) library
+ * Facebook - untested, copy-pasted from [another repository](https://github.com/BurkovBA/personality-prediction-from-text)
 
 ### Analysis
 
