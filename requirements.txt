@@ -1,0 +1,11 @@
+telethon
+pillow
+aiohttp
+numpy
+pandas
+jupyterlab
+scikit-learn
+openpyxl
+nltk
+gensim
+tqdm

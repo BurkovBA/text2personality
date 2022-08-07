@@ -1,0 +1,6 @@
+**/*.pyc
+**/*.pyo
+venv
+**/.pynb_checkpoints
+**/local_settings.py
+**/anon.session
