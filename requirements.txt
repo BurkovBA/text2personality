@@ -9,3 +9,5 @@ openpyxl
 nltk
 gensim
 tqdm
+torch
+torchvision
