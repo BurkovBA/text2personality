@@ -12,3 +12,5 @@ tqdm
 torch
 torchvision
 transformers
+tokenizers
+datasets
