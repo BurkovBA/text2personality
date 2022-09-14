@@ -4,6 +4,8 @@ aiohttp
 numpy
 pandas
 jupyterlab
+matplotlib
+plotly
 scikit-learn
 openpyxl
 nltk
@@ -15,3 +17,5 @@ transformers
 tokenizers
 datasets
 bertviz
+xgboost
+shap

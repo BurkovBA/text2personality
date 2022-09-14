@@ -36,6 +36,7 @@ I've downloaded several training datasets from the internet:
  * data/mypersonality_final.csv - some snapshot from Michal Kosinsky's myPersonality.org project, downloaded from Github 
  * data/2018-personality-data.csv - personality data downloaded from [Kaggle](/https://www.kaggle.com/datasets/arslanali4343/top-personality-dataset)
  * data/2018_ratings.csv - user movie ratings
+ * data/Data Repository.xlsx - responses to big-5 mini-IPIP questionnaire, accompanied with data of number of sexual partners, age etc.
 
 ### Scrappers
 
