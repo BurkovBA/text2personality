@@ -1,6 +1,9 @@
+# data mining
 telethon
 pillow
 aiohttp
+
+# general data processing and machine learning
 numpy
 pandas
 jupyterlab
@@ -8,6 +11,8 @@ matplotlib
 plotly
 scikit-learn
 openpyxl
+
+# transformers and bert
 nltk
 gensim
 tqdm
@@ -17,5 +22,17 @@ transformers
 tokenizers
 datasets
 bertviz
+
+# modelling an interpretability
 xgboost
 shap
+
+# lightautoml
+lightgbm
+lightautoml
+
+# h2o
+requests
+tabulate
+future
+h2o
